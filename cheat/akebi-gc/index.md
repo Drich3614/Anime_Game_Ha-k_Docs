@@ -26,8 +26,8 @@
 
 ## 官方链接
 
-### Akebi Github 官方: 
-<a href="https://github.com/lwd-temp/Akebi-GC"><img src="https://img.shields.io/github/stars/lwd-temp/Akebi-GC?style=for-the-badge"></a>
+### Akebi Git Repo: 
+<a href="https://git.crepe.moe/taiga74164/Akebi-GC"><img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github"></a>
 
 ### Akebi Discord 服务器: 
 <a href="https://discord.gg/akebi"><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=blueviolet"></a>
